@@ -13,7 +13,7 @@ $results = $calculation_results;
         <div class="results" id="results">
             <div class="results-header">
                 <img src="Img/money.png" alt="Results" class="results-icon">
-                <h3>RESULTS</h3>
+                <h3>Happy Chinese New Year!</h3>
                 <img src="Img/chinese-coin.png" alt="Happy Chinese New Year!" class="results-icon">
             </div>
 
